@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Site ScreenShot](https://imgur.com/a/rnTzzg0.png)
+![Site ScreenShot](https://imgur.com/kLXa3XS.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-card-using-sass-flexbox-LC8QB36dJ)
 - Live Site URL: [https://cooly-o-cats.github.io/Order-Summary-Component/](https://cooly-o-cats.github.io/Order-Summary-Component/)
 
 ## My process
