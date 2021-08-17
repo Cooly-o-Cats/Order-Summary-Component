@@ -75,6 +75,7 @@ body {
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            box-shadow: 10px 5px 37px rgba(114, 128, 167, 0.75);
 
             .hero-img,
             .hero-img img {
@@ -158,6 +159,11 @@ body {
                     font-size: 0.90625rem;
                     text-align: center;
                     color: $bright-blue;
+                    transition: color 0.25s ease-in-out;
+                }
+                a:hover {
+                    color: #766cf1;
+                    transition: color 0.25s ease-in-out;
                 }
             }
 
@@ -178,6 +184,17 @@ body {
                     border: none;
                     border-radius: 0.9375rem;
                     margin-bottom: 0.5rem;
+                    filter: drop-shadow(1px 13px 15px rgba(56, 41, 224, 0.26));
+                    transition-duration: 0.25s;
+                    transition-timing-function: ease-in-out;
+                    transition-property: background-color, shadow;
+                }
+                .payment:hover {
+                    background-color: #766cf1;
+                    filter: drop-shadow(1px 13px 15px rgba(118, 108, 241, 0.26));
+                    transition-duration: 0.25s;
+                    transition-timing-function: ease-in-out;
+                    transition-property: background-color, shadow;
                 }
                 .cancel {
                     font-weight: 900;
@@ -190,6 +207,11 @@ body {
                     border: none;
                     border-radius: 0.9375rem;
                     margin-bottom: 0.5rem;
+                    transition: color 0.25s ease-in-out;
+                }
+                .cancel:hover {
+                    color: black;
+                    transition: color 0.25s ease-in-out;
                 }
 
                 .payment,
