@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-card-using-sass-flexbox-LC8QB36dJ)
-- Live Site URL: [https://cooly-o-cats.github.io/Order-Summary-Component/](https://cooly-o-cats.github.io/Order-Summary-Component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-card-using-sass-flexbox-LC8QB36dJ#comment-611bcde46d86f5014aa84235](https://www.frontendmentor.io/solutions/responsive-card-using-sass-flexbox-LC8QB36dJ)
+- Live Site URL: [https://order-summary-component-liamco.vercel.app/](https://order-summary-component-liamco.vercel.app/)
 
 ## My process
 
