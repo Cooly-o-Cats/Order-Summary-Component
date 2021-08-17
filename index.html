@@ -10,7 +10,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="src/img/favicon-32x32.png">
   <link rel="stylesheet" href="dist/style.css">
 
-  <title>Frontend Mentor | Order summary card</title>
+  <title>Order Summary Card</title>
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
 </head>
